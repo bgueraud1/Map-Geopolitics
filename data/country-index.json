@@ -4,5 +4,11 @@
     "name": "Japon",
     "aliases": ["Japan", "Nippon"],
     "file": "countries/jpn.json"
+  },
+  {
+    "iso_a3": "THA",
+    "name": "Thailand",
+    "aliases": ["Thailand", "Siam"],
+    "file": "countries/tha.json"
   }
 ]
