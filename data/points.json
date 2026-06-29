@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tokyo — pôle innovation",
+    "lat": 35.681236,
+    "lng": 139.767125,
+    "file": "points/tokyo-innovation.json"
+  },
+  {
+    "name": "Mont Fuji — repère géocodé",
+    "lat": 35.360638,
+    "lng": 138.727363,
+    "file": "points/mont-fuji.json"
+  }
+]

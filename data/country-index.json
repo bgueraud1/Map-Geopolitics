@@ -1,0 +1,8 @@
+[
+  {
+    "iso_a3": "JPN",
+    "name": "Japon",
+    "aliases": ["Japan", "Nippon"],
+    "file": "countries/jpn.json"
+  }
+]

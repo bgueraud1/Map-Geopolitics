@@ -1,0 +1,175 @@
+{
+  "id": "jpn",
+  "name": "Japon",
+  "subtitle": "Exemple complet avec sections, sous-sections et liens cliquables",
+  "sections": [
+    {
+      "title": "Informations générales",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Capitale : Tokyo" }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Langue officielle : japonais" }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Monnaie : yen (JPY)" }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Repères géographiques",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Archipel d’Asie de l’Est composé de plusieurs milliers d’îles."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Relief contrasté, avec de fortes densités urbaines sur les plaines côtières."
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "title": "Lecture rapide",
+              "blocks": [
+                {
+                  "type": "bullet",
+                  "parts": [
+                    {
+                      "type": "text",
+                      "value": "Ce niveau supplémentaire illustre la possibilité d’ajouter des subsubsections."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Politique",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Régime parlementaire avec un rôle central du gouvernement et de la Diète nationale."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Voir aussi la fiche détaillée sur " },
+            {
+              "type": "link",
+              "label": "le fonctionnement du parlement",
+              "target": "topics/jpn-parlement.json"
+            },
+            { "type": "text", "value": "." }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Institutions",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Ce sous-bloc peut accueillir des sous-sections supplémentaires si nécessaire."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le contenu reste éditable sans toucher au moteur de la carte."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Actualités",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Zone prévue pour des actualités, synthèses et alertes thématiques."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Exemple de focus lié à l’économie et à l’innovation : "
+            },
+            {
+              "type": "link",
+              "label": "ouvrir le sous-popup innovation",
+              "target": "topics/jpn-innovation.json"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Format conseillé",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Une ou deux phrases courtes par bullet, avec des liens internes seulement quand utile."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Tu peux ensuite brancher des données réelles ou un flux éditorial."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

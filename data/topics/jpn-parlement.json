@@ -1,0 +1,59 @@
+{
+  "id": "jpn-parlement",
+  "name": "Le parlement japonais",
+  "subtitle": "Sous-popup d’exemple centré sur un point précis",
+  "sections": [
+    {
+      "title": "Résumé",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La Diète nationale est l’organe législatif."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Cette fiche montre comment créer un focus imbriqué à partir d’un pays."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Détail",
+      "blocks": [
+        {
+          "type": "section",
+          "title": "Chambre des représentants",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                { "type": "text", "value": "Sous-section possible pour aller plus loin." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Chambre des conseillers",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                { "type": "text", "value": "Le même gabarit peut se répéter autant de fois que nécessaire." }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

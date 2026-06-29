@@ -1,0 +1,52 @@
+{
+  "id": "tokyo-innovation",
+  "name": "Tokyo — pôle innovation",
+  "subtitle": "Point géocodé cliquable",
+  "sections": [
+    {
+      "title": "Informations générales",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Point ajouté manuellement par géocodage." }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Ce point peut renvoyer vers " },
+            {
+              "type": "link",
+              "label": "la fiche innovation",
+              "target": "topics/jpn-innovation.json"
+            },
+            { "type": "text", "value": "." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Politique locale",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Zone prévue pour les enjeux municipaux, économiques ou territoriaux." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Actualités",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Tu peux y mettre des notes rapides, une veille ou un mini résumé." }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "jpn-innovation",
+  "name": "Innovation industrielle au Japon",
+  "subtitle": "Sous-popup thématique réutilisable depuis un pays ou un point",
+  "sections": [
+    {
+      "title": "Pourquoi ce sujet ?",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Cette fiche peut servir à résumer une thématique transversale."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Elle peut être appelée depuis plusieurs endroits de la carte."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sous-sections possibles",
+      "blocks": [
+        {
+          "type": "section",
+          "title": "Technologies",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Ici tu peux détailler les sujets tech, les acteurs, les tendances ou les risques."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Industrie",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Même logique : un niveau de profondeur supplémentaire si nécessaire."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

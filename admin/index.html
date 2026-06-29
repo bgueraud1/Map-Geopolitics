@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Éditeur de fiches pays</title>
+    <link rel="stylesheet" href="./admin.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Éditeur de contenu</h1>
+        <p>Créer et modifier les JSON des pays, topics et points.</p>
+      </div>
+      <div id="status" class="status">Prêt.</div>
+    </header>
+
+    <main id="app"></main>
+
+    <input
+      id="fileInput"
+      type="file"
+      accept=".json,application/json"
+      hidden
+    />
+
+    <script type="module" src="./editor.js"></script>
+  </body>
+</html>

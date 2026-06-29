@@ -1,0 +1,46 @@
+{
+  "id": "mont-fuji",
+  "name": "Mont Fuji — repère géocodé",
+  "subtitle": "Autre point cliquable d’exemple",
+  "sections": [
+    {
+      "title": "Informations générales",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Point géocodé placé sur la carte." }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Le modèle reste identique à celui d’un sous-popup." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Politique",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Tu peux détourner cette rubrique pour y mettre un focus territorial, administratif ou de gestion des risques." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Actualités",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            { "type": "text", "value": "Exemple de bloc réservé aux informations récentes ou à la veille." }
+          ]
+        }
+      ]
+    }
+  ]
+}
