@@ -1,0 +1,253 @@
+{
+  "kind": "country",
+  "id": "tha",
+  "name": "Thaïlande",
+  "iso_a3": "THA",
+  "aliases": [
+    "Thailand",
+    "Thai",
+    "Siam"
+  ],
+  "subtitle": "Exemple complet avec sections, sous-sections et liens cliquables",
+  "sections": [
+    {
+      "title": "Informations générales",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Capitale : Bangkok"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Langue officielle : Thaï"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Monnaie : baht (฿)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Démographie",
+          "subtitle": "",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "68M d'habitants"
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Fécondité : 1.51 enfants/femme. Croissance 0.32%"
+                }
+              ]
+            },
+            {
+              "title": "Nouvelle sous-section",
+              "subtitle": "",
+              "blocks": [
+                {
+                  "type": "bullet",
+                  "parts": [
+                    {
+                      "type": "text",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Nouvelle sous-section",
+              "subtitle": "",
+              "blocks": [
+                {
+                  "type": "bullet",
+                  "parts": [
+                    {
+                      "type": "text",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Boudhistes (95%) et musulmans (4%) dans le Sud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Politique",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Régime parlementaire et monarchie constitutionnelle"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Parlement bicaméral"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Roi : titre essentiellement honorifique de chef des armées."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Actualités",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Visite en juin 2026 du roi en France"
+            },
+            {
+              "type": "text",
+              "value": "Approfondissement du partenariat stratégique"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "COMCYBER organise Kosa Pan en partenariat avec pays de la région"
+            },
+            {
+              "type": "text",
+              "value": "."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Volonté de coopération sur divers champs militaires, dont industrie de défense et les menaces cyber"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "2024 - Refus américain de vendre F35-A"
+            },
+            {
+              "type": "text",
+              "value": "Aboutit à offres chinoises"
+            },
+            {
+              "type": "text",
+              "value": "Proposition US d'un système de leasing : transfert de dette souveraine pour permettre le renforcement capacitaire à court terme en payant seulement les annuités et sans mettre en péril la situation budgétaire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Armée",
+      "subtitle": "",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Conscription avec service militaire à tirage au sort"
+            },
+            {
+              "type": "text",
+              "value": "600.000 mobilisable"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Puissance d'ordre régional"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Matériel chinois et américain"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Conflit récurrent à frontière cambodgienne"
+            },
+            {
+              "type": "link",
+              "label": "Conflit",
+              "target": "topics/conflit_thai_camb.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
