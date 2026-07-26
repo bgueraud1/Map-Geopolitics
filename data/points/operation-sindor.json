@@ -1,0 +1,153 @@
+{
+  "id": "operation-sindoor-inde",
+  "name": "Opération Sindoor — Inde",
+  "subtitle": "Synthèse stratégique à partir de notes d’articles",
+  "sections": [
+    {
+      "title": "Chronologie",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mai 2025 : attaque terroriste attribuée au Pakistan en Inde."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Riposte : frappes, combat aérien, drones et désinformation."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Bilan : l’Inde n’a pas montré une victoire franche, et la maîtrise revendiquée de l’escalade n’a pas empêché les pressions internationales en faveur d’un cessez-le-feu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cinq leçons stratégiques",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L’Inde franchit plusieurs lignes rouges en ciblant la profondeur du territoire pakistanais. L’opération se situe sous le seuil nucléaire entre deux États dotés, tout en élargissant le spectre conventionnel. Elle illustre la logique de représailles calibrées et met aussi en lumière l’incapacité du Pakistan à protéger certaines infrastructures stratégiques, y compris nucléaires."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La guerre sans contact repose sur des frappes à distance : missiles, drones, munitions rôdeuses et information. Elle limite l’escalade et abaisse le coût politique et militaire de l’agression, mais son efficacité reste incertaine si les dégâts restent limités et les signaux stratégiques ambigus. Le décalage entre fermeté politique et effets réels demeure important."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L’Inde fait apparaître des lacunes en renseignement, ISR, communications résilientes et frappes de longue portée. La réponse passe par une meilleure défense aérienne intégrée, par un renforcement des capacités spatiales de renseignement, par Netra MkII pour l’alerte précoce, et par des liaisons de données plus robustes face à la guerre électronique. La fusion de données par IA et le contrôle automatisé, comme AkashTeer, sont présentés comme des pistes de correction."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le défi à deux fronts, face à la Chine et au Pakistan, pèse fortement sur la planification indienne. Le Pakistan bénéficie de matériels chinois, de données de renseignement spatiales et d’un appui technologique qui réduit l’écart capacitaire dans un conflit court. Dans ce contexte, les missiles, drones et AWACS pakistanais peuvent rapidement devenir comparables à ceux de l’Inde."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le retour russe reste important mais plus ambigu. BrahMos et S-400 restent des références, mais l’Inde cherche à diversifier ses fournisseurs face aux retards de livraison russes et à certaines dépendances industrielles. D’où l’intérêt croissant pour des drones américains, des avions français, des missiles israéliens et une base technologique plus large."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Capacités et adaptations",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Annonce en août 2025 d’un système de défense aérienne intégré de type Suarshan Chakra."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Programme de 52 satellites militaires pour renforcer la collecte spatiale."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Netra MkII : projet d’alerte précoce et de surveillance."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Besoin de liaisons de données résilientes, d’algorithmes adaptatifs et de C2 avancé pour tenir sous guerre électronique."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "BrahMos reste utile mais limité par son coût et sa portée d’environ 500 km ; l’Inde explore aussi des missiles hypersoniques, des avions de 5e génération et une réforme organisationnelle avec commandements conjoints et fusion civilo-militaire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Repère géocodé",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Chakothi, secteur de la ligne de contrôle au Cachemire : 34.1171, 73.8831."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

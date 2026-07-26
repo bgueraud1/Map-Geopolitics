@@ -10,5 +10,12 @@
     "lat": 35.360638,
     "lng": 138.727363,
     "file": "points/mont-fuji.json"
+  },
+
+  {
+    "name": "Opération Sindor",
+    "lat": 34.1171,
+    "lng": 73.8831,
+    "file": "points/operation-sindor.json"
   }
 ]
