@@ -1,0 +1,108 @@
+{
+  "id": "cooperation-sino-africaine",
+  "name": "Coopération sino-africaine",
+  "subtitle": "Bases, ports, armements et protections industrielles",
+  "sections": [
+    {
+      "title": "Contexte général",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Après la guerre froide, la baisse du soutien occidental ouvre la voie à une extension des relations politiques et économiques avec la Chine."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Cette relation inclut la formation militaire, des infrastructures de base et un développement industriel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Djibouti",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Djibouti occupe une position clé près du Bab el-Mandeb et dans un espace de forte vulnérabilité du trafic maritime."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Plusieurs bases militaires se concentrent dans la zone."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le port joue un rôle stratégique au cœur des routes entre Asie, Afrique et Europe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Armements et projection",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La Chine apparaît comme principal fournisseur de chars, drones et missiles sol-air."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le Yitian-II est présenté comme un symbole de cette présence."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Des cas sont cités au Mali, au Soudan et en Algérie, avec le radar CHL-906."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Implantations industrielles et minières",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les implantations industrielles et minières sont protégées par des sociétés privées."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

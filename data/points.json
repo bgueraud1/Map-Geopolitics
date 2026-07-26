@@ -17,5 +17,30 @@
     "lat": 34.1171,
     "lng": 73.8831,
     "file": "points/operation-sindor.json"
+  },
+
+  {
+    "name": "Pakistan -- J35",
+    "lat": 32.0486,
+    "lng":72.6650,
+    "file": "points/pakistan-j35.json"
+  },
+  {
+    "name": "Drones IA -- Ukraine",
+    "lat": 50.2845,
+    "lng":36.27,
+    "file": "points/drone_ia_ukraine.json"
+  },
+  {
+    "name": "Chine -- Afrique",
+    "lat": 11.590,
+    "lng":43.095,
+    "file": "points/chine_afrique.json"
+  },
+  {
+    "name": "Union militaire MO",
+    "lat": 21.5330,
+    "lng":39.1597,
+    "file": "points/alliance_moyen_orient.json"
   }
 ]

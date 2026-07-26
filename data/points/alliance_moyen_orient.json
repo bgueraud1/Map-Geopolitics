@@ -1,0 +1,140 @@
+{
+  "id": "moyen-orient-alliances-securite",
+  "name": "Moyen-Orient : alliances de sécurité",
+  "subtitle": "Arabie saoudite, Turquie, Pakistan, Égypte et Qatar",
+  "sections": [
+    {
+      "title": "Lecture générale",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La région cherche un partenariat de sécurité post-conflit pour compenser le retrait américain."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'Arabie saoudite promeut une logique d'alliance sunnite, avec un rôle accru du Pakistan à partir de 2025."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Architecture politique",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les objectifs des acteurs ne sont pas identiques : les Émirats sont absents et la Turquie conserve une autonomie d'influence."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Une proposition évoque un système de péage pour le détroit d'Ormuz, avec gestion des flux pétroliers par la Turquie, l'Égypte et l'Arabie saoudite."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'idée d'interdire l'usage de bases et de l'espace aérien vise aussi à forcer l'ouverture du détroit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Industrie de défense",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'Arabie saoudite a un contrat avec la firme chinoise GAMI pour assembler des drones de combat à Djeddah."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La défense aérienne mobilise aussi des fournisseurs ukrainiens et sud-coréens."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'achat du système KORKUT 100-25 par l'Arabie saoudite et le Qatar illustre la montée en puissance de cette demande."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'intérêt pour le KAAN turc et le JF-17 Block III traduit une augmentation des capacités d'engagement BVR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Volet naval",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le volet naval comprend une acquisition massive de sous-marins."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ryad chercherait aussi des sous-marins italiens de type Todaro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'ensemble traduit une logique de diversification plutôt qu'un remplacement pur et simple des États-Unis."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

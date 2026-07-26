@@ -1,0 +1,213 @@
+{
+  "id": "drones-ia-ukraine",
+  "name": "Drones et IA en Ukraine",
+  "subtitle": "Adaptation rapide, guerre électronique et limites de l'autonomie",
+  "sections": [
+    {
+      "title": "Chronologie et dynamique",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'usage des drones et de l'IA est présent dès le début du conflit, puis s'accélère fortement en 2025."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'objectif est d'optimiser la kill chain dans un environnement saturé de cibles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Trois usages principaux",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Navigation autonome en environnement électromagnétique dégradé, avec spoofing et brouillage GPS."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Guidage terminal pour conserver la précision en fin de trajectoire malgré le brouillage."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ciblage et reconnaissance pour repérer troupes, mouvements et véhicules."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Navigation",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Quand le lien pilote est brouillé ou que la couche GPS est dégradée, les drones doivent se repérer seuls."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Deux méthodes ressortent : intégration de logiciels cartographiques avec navigation inertielle embarquée, ou reconnaissance visuelle comparée à une carte des reliefs."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le résultat peut permettre des frappes à très longue distance, y compris jusqu'à Moscou, malgré un besoin de recalage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Guidage terminal",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le brouillage peut viser une zone entière ou une cible mobile précise."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le principe est de faire dévier la munition de quelques mètres seulement pour qu'elle manque le véhicule visé."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'IA sert alors à préserver la précision terminale malgré le brouillage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ciblage et renseignement",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les drones de reconnaissance servent à identifier des troupes, des mouvements et des véhicules."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'usage de ces outils repose sur des technologies déjà présentes dans d'autres secteurs."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La montée en gamme pose la question du rapport coût-efficacité face aux drones plus simples, dans une logique de high-low mix."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Limites et contre-mesures",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les interceptions contre les drones russes montrent un cycle d'adaptation très rapide, de l'ordre de 2 à 3 mois."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pour l'instant, il n'y a pas d'autonomisation complète de l'ouverture du feu."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La question reste aussi éthique : conserver la maîtrise de l'ouverture du feu demeure central."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Écosystème",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'écosystème ukrainien comporte de nombreuses start-ups soutenues par des fonds publics."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les Russes bénéficient en face de la rétro-ingénierie et d'un réajustement permanent."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
