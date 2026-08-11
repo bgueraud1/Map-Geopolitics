@@ -10,5 +10,17 @@
     "name": "Thaïlande",
     "aliases": ["Thailand", "Siam"],
     "file": "countries/tha.json"
-  }
+  },
+  {
+  "iso_a3": "MMR",
+  "name": "Myanmar",
+  "aliases": ["Myanmar", "Burma", "Birmanie", "Birmania"],
+  "file": "countries/mmr.json"
+},
+{
+  "iso_a3": "YEM",
+  "name": "Yémen",
+  "aliases": ["Yemen", "Yémen", "Republic of Yemen"],
+  "file": "countries/yem.json"
+}
 ]

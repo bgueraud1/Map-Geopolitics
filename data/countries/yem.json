@@ -1,0 +1,795 @@
+{
+  "id": "yem",
+  "name": "Yémen",
+  "subtitle": "Histoire des deux Yémen, guerre civile, Houthis, acteurs régionaux et situation contemporaine",
+  "sections": [
+    {
+      "title": "Repères historiques",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le Yémen du Nord se constitue comme royaume après la fin de l'Empire ottoman. Il s'agit d'un État de tradition musulmane zaydite dirigé par des imams."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "1962 : le royaume s'effondre après le renversement de l'imam Muhammad al-Badr par des officiers républicains inspirés par le nassérisme. La République arabe du Yémen est proclamée."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "1962-1970 : guerre civile entre républicains et royalistes. Les royalistes bénéficient notamment du soutien de l'Arabie saoudite et du Royaume-Uni ainsi que de mercenaires étrangers, tandis que les républicains sont soutenus par l'Égypte de Gamal Abdel Nasser."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "1970 : l'Arabie saoudite reconnaît finalement la République du Yémen du Nord, ce qui ouvre une période de relations plus étroites entre les deux Yémen."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Naissance du Yémen du Sud",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le protectorat britannique d'Aden prend fin en 1967 après une lutte armée menée notamment par le Front de libération nationale (FLN) et le Front for the Liberation of Occupied South Yemen (FLOYS)."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le Yémen du Sud devient un État socialiste, progressivement aligné sur une politique marxiste-léniniste et fortement soutenu par l'Union soviétique."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le régime sud-yéménite adopte à l'époque certaines politiques sociales et juridiques relativement progressistes au regard des standards régionaux, notamment sur les droits des femmes."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Les monarchies arabes voisines craignent alors la diffusion de mouvements révolutionnaires et socialistes dans la péninsule."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unification et tensions Nord-Sud",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "1990 : les deux Yémen s'unifient pour former la République du Yémen, dans un contexte de recul puis de disparition du soutien soviétique au Yémen du Sud."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Après l'unification, les institutions spécifiques du Yémen du Sud sont progressivement démantelées et le nouvel ordre politique s'appuie de plus en plus sur les institutions et structures politiques du Nord."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Guerre de 1994",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Les tensions entre les dirigeants nordistes et sudistes s'accumulent autour de la répartition du pouvoir, de la corruption, des politiques économiques et de la question d'une révision constitutionnelle."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "1994 : l'échec des négociations conduit à une proclamation d'indépendance du Sud, non reconnue internationalement, puis à une guerre ouverte."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le camp sudiste reçoit des soutiens extérieurs notamment de l'Arabie saoudite et de certains acteurs arabes, tandis que le gouvernement du Nord bénéficie de soutiens provenant d'autres États de la région."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La défaite militaire du Sud entraîne l'exil de plusieurs de ses dirigeants et une longue période de ressentiment et de marginalisation politique dans les provinces méridionales."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Montée des Houthis",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les Houthis, ou Ansar Allah, émergent dans le nord-ouest du Yémen, notamment dans la région de Saada, dans un contexte de marginalisation économique et politique des communautés zaydites et d'extension du salafisme soutenu par l'État."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le mouvement tire son nom de la famille al-Houthi. Hussein al-Houthi devient sa figure fondatrice et est tué en 2004 lors du déclenchement des guerres de Saada ; son frère Abdul-Malik al-Houthi lui succède comme chef central du mouvement."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "2004-2010 : plusieurs guerres opposent les Houthis au pouvoir central. Le conflit provoque des milliers de morts et d'importants déplacements de population."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les Houthis bénéficient progressivement d'un soutien iranien, tandis que les États-Unis et l'Arabie saoudite soutiennent principalement le gouvernement yéménite."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "2011-2014",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La crise politique déclenchée par le soulèvement de 2011 affaiblit profondément l'État central et ouvre une période de transition fragile."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Les Houthis profitent de l'effondrement progressif du processus de transition et avancent vers Sanaa."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "2014 : les Houthis prennent Sanaa puis étendent leur contrôle sur une grande partie du nord-ouest du pays, ce qui transforme la crise politique en conflit armé national."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Guerre civile depuis 2014",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "2014-2015 : les Houthis imposent progressivement leur contrôle sur Sanaa et sur de vastes territoires du nord-ouest. Le gouvernement reconnu internationalement se replie en partie vers Aden."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mars 2015 : une coalition dirigée par l'Arabie saoudite intervient militairement pour soutenir le gouvernement reconnu internationalement et empêcher une victoire houthie complète."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La coalition rassemble au fil du conflit plusieurs partenaires arabes et régionaux, notamment les Émirats arabes unis, Bahreïn, le Koweït, la Jordanie et l'Égypte, tandis que les équilibres entre membres de la coalition évoluent avec le temps."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les Houthis reçoivent un soutien de l'Iran, ainsi que des appuis politiques et militaires de réseaux liés à l'axe de la résistance, notamment le Hezbollah."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Structure du conflit",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le conflit oppose principalement les autorités internationalement reconnues et leurs alliés aux Houthis, mais il comprend également de nombreux acteurs locaux, tribaux, islamistes, séparatistes et armés."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le camp anti-houthi n'est pas homogène : les intérêts du gouvernement, de l'Arabie saoudite et des Émirats arabes unis ont parfois divergé, notamment dans le Sud."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Les Houthis",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les Houthis disposent d'une branche politique et d'une branche militaire et fonctionnent de facto comme une autorité étatique parallèle dans les territoires qu'ils contrôlent."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le Supreme Political Council et le gouvernement houthi fournissent une façade institutionnelle, mais le pouvoir réel demeure fortement concentré autour d'Abdul-Malik al-Houthi et de l'appareil militaire et sécuritaire du mouvement."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Dans les zones sous leur contrôle, les Houthis lèvent des taxes, administrent des institutions publiques, contrôlent une partie des flux d'aide et disposent d'un appareil sécuritaire propre."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Idéologie et discours",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le mouvement se présente comme anti-corruption, opposé à l'ingérence étrangère et défenseur du Nord yéménite face à l'Arabie saoudite, aux États-Unis et, depuis 2023, à Israël."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Depuis la guerre à Gaza en 2023, les Houthis ont internationalisé leur rôle en lançant des attaques contre des navires en mer Rouge et en menaçant la navigation commerciale, en affirmant agir en solidarité avec les Palestiniens."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Répression",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Dans les zones qu'ils contrôlent, les Houthis sont accusés d'arrestations arbitraires, de disparitions et de détentions de journalistes, d'opposants et de personnels humanitaires."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Les Nations unies ont notamment dénoncé la détention de personnels de l'ONU et demandé leur libération immédiate."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le conflit dans son ensemble est également marqué par des accusations d'abus graves, de recrutement d'enfants, d'atteintes aux droits des femmes, d'exécutions et d'autres violations des droits humains."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Statut international",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Aux États-Unis, Ansarallah est désigné comme Specially Designated Global Terrorist (SDGT) depuis février 2024 et comme Foreign Terrorist Organization (FTO) depuis mars 2025."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "À l'ONU, les Houthis ne font pas l'objet d'une 'liste terroriste mondiale' équivalente au dispositif américain ; le cadre pertinent est principalement le régime de sanctions concernant le Yémen, qui prévoit notamment des gels d'avoirs, des interdictions de voyager et un embargo sur les armes pour les personnes ou entités désignées."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sud du Yémen",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le ressentiment sudiste issu de l'unification et de la défaite de 1994 reste un facteur majeur de la politique yéménite contemporaine."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Conseil de transition du Sud",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le Southern Transitional Council (STC), soutenu politiquement et militairement par les Émirats arabes unis, devient depuis 2017 le principal mouvement séparatiste sudiste."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le STC participe à la lutte contre les Houthis tout en entrant régulièrement en conflit avec le gouvernement reconnu internationalement et soutenu par l'Arabie saoudite."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Décembre 2025 - janvier 2026 : le STC progresse dans plusieurs zones du Sud, mais les forces soutenues par l'Arabie saoudite reprennent rapidement une grande partie des territoires conquis, notamment à Hadramout."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Début janvier 2026, une faction du STC annonce sa dissolution après son déplacement en Arabie saoudite, mais la direction du mouvement conteste cette décision. La question séparatiste sudiste reste donc politiquement ouverte malgré la perte de ses gains territoriaux."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Contrôle territorial",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les Houthis contrôlent environ un tiers du territoire mais une part beaucoup plus importante de la population, estimée à environ deux tiers, car leur zone couvre notamment Sanaa et les principaux centres urbains densément peuplés du nord-ouest."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le gouvernement reconnu internationalement contrôle principalement des territoires du Sud et de l'Est, avec des centres importants comme Aden et de vastes zones de Hadramout, de Shabwa et de Ma'rib."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le contrôle territorial reste toutefois fragmenté, avec des forces locales, tribales et séparatistes disposant de marges d'autonomie importantes."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Zone houthie",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Les Houthis gouvernent de facto Sanaa et l'essentiel de la façade nord-ouest du pays, où se concentre une grande partie de la population."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le mouvement dispose dans cette zone d'un appareil administratif, fiscal, sécuritaire et militaire relativement intégré."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Soutiens extérieurs",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Iran : principal soutien extérieur des Houthis, avec une aide politique, militaire, technologique et financière, même si les Houthis conservent leur propre agenda politique et militaire."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Arabie saoudite : principal soutien régional du gouvernement reconnu internationalement et ancienne puissance dirigeant la coalition militaire contre les Houthis."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Émirats arabes unis : acteur majeur du camp anti-houthi depuis 2015 et principal soutien du STC et de plusieurs forces du Sud, avant un retrait militaire progressif et une réorientation de son engagement."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Oman : joue surtout un rôle de médiateur entre les différentes parties, notamment entre les Houthis et les États-Unis ou l'Arabie saoudite."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Évolution récente",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La guerre a progressivement cessé d'être un affrontement militaire classique entre deux camps clairement définis et est devenue un conflit à plusieurs niveaux mêlant guerre civile, rivalités régionales, séparatisme sudiste et confrontation indirecte entre l'Iran et les monarchies du Golfe."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "En 2026, les tensions régionales ont de nouveau renforcé le rôle militaire des Houthis, notamment autour de la mer Rouge et de Bab el-Mandeb."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mer Rouge et dimension régionale",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Depuis 2023, les Houthis attaquent ou menacent des navires en mer Rouge et dans les approches de Bab el-Mandeb, en affirmant agir en soutien aux Palestiniens."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ces attaques ont transformé le Yémen en acteur central de la sécurité maritime mondiale, en raison de la position stratégique de Bab el-Mandeb, passage entre la mer Rouge et le golfe d'Aden."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En 2026, les tensions avec l'Arabie saoudite se sont à nouveau intensifiées : les Houthis ont menacé ou attaqué des infrastructures et navires saoudiens, tandis que le trafic maritime dans la zone a fortement diminué."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le 11 août 2026, une attaque attribuée aux Houthis contre un cargo dans le détroit de Bab el-Mandeb a fait trois morts parmi l'équipage, illustrant la persistance de la menace maritime."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sanctions et pression internationale",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les États-Unis maintiennent un régime de sanctions visant les Houthis, leurs dirigeants, leurs réseaux financiers et les circuits de contrebande associés au mouvement."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Washington a également adapté certaines licences humanitaires afin que les sanctions contre les Houthis ne bloquent pas totalement l'acheminement de l'aide au Yémen."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le dispositif des Nations unies vise principalement les personnes et entités inscrites au régime de sanctions concernant le Yémen, avec notamment des gels d'avoirs, des interdictions de voyager et des restrictions sur les transferts d'armes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Géographie et population",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le Yémen compte environ 35 millions d'habitants et possède l'une des populations les plus jeunes de la péninsule Arabique."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'est du pays est largement désertique et s'étend vers les espaces proches du Dhofar omanais, tandis que l'ouest et le centre sont davantage marqués par des plateaux, des montagnes et des zones semi-désertiques."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La majorité de la population vit dans les hautes terres et les plaines occidentales, notamment autour de Sanaa, Taiz, Hodeïda et des autres grands centres urbains."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Situation humanitaire et droits humains",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le Yémen reste l'une des plus graves crises humanitaires au monde. En 2026, plus de 22 millions de personnes ont besoin d'une aide humanitaire ou de services de protection."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Environ 18,3 millions de personnes sont confrontées à une insécurité alimentaire aiguë et plus de 2,2 millions d'enfants de moins de cinq ans souffrent de malnutrition aiguë."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les déplacements internes, les épidémies, la destruction des infrastructures et la dégradation des services publics aggravent les conséquences du conflit."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Droits humains",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Les différentes parties au conflit sont accusées de graves violations des droits humains et du droit international humanitaire, notamment arrestations arbitraires, torture, recrutement d'enfants, violences contre les femmes et exécutions."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Les journalistes et les travailleurs humanitaires restent particulièrement vulnérables, avec des détentions et des restrictions importantes dans les zones contrôlées par les autorités de facto."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La détention de personnels des Nations unies par les Houthis est devenue l'un des principaux points de tension entre les autorités de facto et la communauté internationale."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Situation présente",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le Yémen reste divisé entre une autorité houthie contrôlant Sanaa et la majeure partie du nord-ouest densément peuplé, et un ensemble d'autorités et de forces anti-houthis contrôlant l'essentiel du Sud et de l'Est."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le front intérieur connaît par périodes une intensité moindre qu'au plus fort de la guerre, mais aucun règlement politique définitif n'a été trouvé et la fragmentation du pays demeure profonde."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La reprise des tensions régionales en 2026 a cependant réintroduit un risque d'escalade militaire directe autour de la mer Rouge, de Bab el-Mandeb et de la frontière saoudienne."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La priorité internationale reste la recherche d'un règlement politique inclusif, la protection des civils et le maintien de l'aide humanitaire dans un contexte de financement en baisse."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "id": "mmr",
+  "name": "Myanmar",
+  "subtitle": "Repères historiques, transition politique, guerre civile, acteurs et situation actuelle",
+  "sections": [
+    {
+      "title": "Repères historiques",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Indépendance en 1948. Les premières décennies de la Birmanie indépendante sont marquées par une démocratie fragile, des rébellions internes, des guérillas communistes et des mouvements nationalistes dans les régions périphériques."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "1962 : premier coup d'État militaire et mise en place d'une dictature dirigée par le général Ne Win."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "1988 et montée de l'opposition démocratique",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "1988 : soulèvement populaire massif. La répression du mouvement démocratique entraîne un changement de junte et l'installation du State Law and Order Restoration Council (SLORC)."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Aung San Suu Kyi revient en Birmanie et fonde la Ligue nationale pour la démocratie (LND), qui devient le principal mouvement politique d'opposition."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "1991 : Aung San Suu Kyi reçoit le prix Nobel de la paix alors qu'elle reste sous pression du pouvoir militaire."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Isolement et ouverture progressive",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "À partir du milieu des années 1990, le Myanmar connaît un fort isolement international et un accès limité aux financements internationaux, tandis que la Chine, la Thaïlande et d'autres partenaires asiatiques maintiennent des relations économiques et stratégiques avec le régime."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "L'économie bénéficie notamment des revenus du gaz et d'activités illicites, dont le trafic de stupéfiants."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Les mauvaises conditions socio-économiques alimentent une contestation croissante, jusqu'au mouvement connu sous le nom de Révolution Safran en 2007."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Transition démocratique",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "2011-2015 : ouverture politique progressive sous le général Thein Sein, souvent décrite comme une forme de transition contrôlée. Des réformes permettent notamment davantage de liberté syndicale et de manifestation."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "2012 : élections législatives partielles marquées par la progression de la LND, tandis que l'armée conserve un rôle institutionnel déterminant."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "2015-2016 : victoire écrasante de la LND aux élections de novembre 2015 et arrivée d'un gouvernement civil de fait autour d'Aung San Suu Kyi."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La transition reste cependant incomplète : la Constitution de 2008 réserve 25 % des sièges parlementaires aux militaires et leur garantit le contrôle de plusieurs ministères régaliens."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Rohingya et blocage de la transition",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "2016-2017 : la cohabitation entre pouvoir civil et armée reste fragile. En 2017, les opérations militaires massives dans l'État de Rakhine provoquent un exode de plus de 700 000 Rohingya vers le Bangladesh et une rupture durable avec une grande partie des pays occidentaux."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "2018-2020 : la démilitarisation reste limitée et les conflits ethniques se poursuivent dans les périphéries. En novembre 2020, la LND remporte de nouveau les élections, que l'armée conteste en dénonçant des fraudes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coup d'État et guerre civile",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "1er février 2021 : l'armée renverse le gouvernement civil, arrête les principaux dirigeants politiques et met fin au processus électoral."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le State Administration Council (SAC) est mis en place. La répression des manifestations provoque une militarisation rapide de la contestation."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La résistance s'organise autour du National Unity Government (NUG), des People’s Defence Forces (PDF) et de nombreuses armées ethniques déjà implantées dans les régions périphériques."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "2022-2024",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le conflit devient une guerre multi-fronts. L'armée conserve les principaux centres urbains et une grande partie de l'appareil d'État, mais perd du terrain dans plusieurs régions frontalières et sur certains axes commerciaux."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Les bombardements aériens se multiplient, la conscription est étendue et les alliances tactiques entre groupes démocratiques et armées ethniques se renforcent."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "L'offensive 1027 lancée en 2023 par plusieurs groupes ethniques entraîne d'importantes pertes territoriales pour l'armée dans le nord et l'est du pays."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "2025-2026",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La junte tente de reprendre l'initiative par des contre-offensives dans le Kachin, le Chin, le nord Shan et d'autres zones stratégiques, notamment autour des routes commerciales et des régions riches en ressources minières et en terres rares."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le régime cherche également à mettre en scène une normalisation politique par des élections organisées fin 2025-début 2026, largement contestées à l'étranger, puis par l'accession de Min Aung Hlaing à la présidence."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le rapport de force reste mouvant : le conflit se prolonge sans victoire décisive d'un camp."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Groupes en guerre",
+      "blocks": [
+        {
+          "type": "section",
+          "title": "Camp du pouvoir central",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le SAC et le Tatmadaw constituent le cœur du dispositif militaire, appuyés par les forces de sécurité, l'aviation, les administrations locales et différentes milices alliées."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Camp anti-junte",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le NUG et les People’s Defence Forces (PDF) coordonnent une partie de la résistance pro-démocratie."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Parmi les principales armées ethniques figurent l'Arakan Army (AA), la Kachin Independence Army (KIA), la Ta’ang National Liberation Army (TNLA), la Myanmar National Democratic Alliance Army (MNDAA), la Karen National Union / Karen National Liberation Army (KNU/KNLA), la Karenni National Progressive Party / Karenni Nationalities Defence Force (KNPP/KNDF), ainsi que divers groupes chin et réseaux locaux de défense."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Évolution des alliances",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Avant 2021, de nombreux groupes armés ethniques avaient accepté des cessez-le-feu partiels. Le coup d'État fait exploser ces équilibres et plusieurs organisations reprennent la guerre ouverte contre l'armée."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Tous les groupes armés ethniques ne sont toutefois pas alignés sur le NUG : certains acteurs conservent une stratégie autonome et négocient directement avec Naypyidaw ou Pékin."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Contrôle territorial",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le pouvoir central conserve surtout Naypyidaw, Yangon, Mandalay, les grandes villes encore connectées et une partie du centre des plaines. Les forces de résistance et les armées ethniques dominent largement les frontières et de nombreuses périphéries."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Selon des estimations reprises par le Council on Foreign Relations et d'autres analyses, les forces de résistance et les armées ethniques contrôlent environ 42 % du territoire, contre environ 21 % pour la junte, le reste étant contesté ou instable."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Rakhine",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "L'Arakan Army est devenue la principale force militaire de l'État de Rakhine et exerce un contrôle sur la majeure partie du territoire. Le conflit reste particulièrement important le long de la frontière avec le Bangladesh."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La région demeure également le principal foyer de la crise Rohingya, avec des déplacements massifs, de fortes restrictions humanitaires et une situation alimentaire très dégradée."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Kachin et nord Shan",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La KIA contrôle de larges zones du Kachin et des secteurs du nord Shan. Les combats se concentrent notamment autour des routes, des villes-carrefours, des zones minières et des ressources en terres rares proches de la frontière chinoise."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Dans le nord Shan, la MNDAA et la TNLA ont pris plusieurs positions majeures au cours de l'offensive 1027. Lashio, conquise par la MNDAA en 2024, est ensuite revenue sous contrôle de l'armée en 2025 dans un contexte de forte pression chinoise."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Sud-Est",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La KNU/KNLA et les forces karenni contrôlent ou disputent de larges portions de Kayin/Karen, Kayah/Karenni et Tanintharyi, notamment le long de la frontière avec la Thaïlande."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "L'armée régulière conserve surtout des poches fortifiées et les principaux axes de circulation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Zones autonomes non alignées",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La United Wa State Army (UWSA) et la National Democratic Alliance Army (NDAA) maintiennent des enclaves de fait très autonomes dans l'est de l'État Shan."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Ces acteurs ne constituent pas le cœur de la rébellion anti-junte et privilégient surtout la préservation de leur autonomie et la négociation avec Naypyidaw et Pékin."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Soutiens extérieurs",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Chine : principal partenaire commercial et investisseur, acteur diplomatique central et médiateur important dans les cessez-le-feu frontaliers. Pékin cherche aussi à sécuriser ses frontières, ses investissements et ses axes commerciaux."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Russie : soutien militaire au régime et transferts d'armements."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Thaïlande : réengagement pragmatique, dialogue avec les différentes parties et priorité donnée à la stabilité de la frontière."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Inde : contacts prudents avec les autorités et les acteurs régionaux, principalement pour des raisons de sécurité et de calcul stratégique."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "ASEAN : le Five-Point Consensus reste la principale référence diplomatique, mais sa mise en œuvre est faible et l'organisation demeure divisée face à la guerre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sanctions et isolement",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "États-Unis : maintien d'un régime de sanctions ciblant les responsables, entités et secteurs liés au pouvoir militaire, notamment certaines activités pétrolières et gazières."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Union européenne : mesures restrictives prolongées jusqu'au 30 avril 2027, comprenant gels d'avoirs, interdictions de voyage, embargo sur les armes et restrictions sur certains équipements pouvant servir à la répression."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Royaume-Uni : sanctions financières, commerciales et autres mesures ciblant des responsables et entités liés à la junte."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Canada : renforcement et coordination des sanctions contre des responsables et entités liés au régime militaire."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les grands bailleurs multilatéraux restent en retrait du financement direct du gouvernement et le pays demeure sous forte pression financière et diplomatique."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Situation présente",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La crise reste marquée par une guerre prolongée, des déplacements massifs de population, des bombardements aériens répétés et un accès humanitaire très dégradé."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La situation humanitaire demeure critique dans de nombreuses régions, notamment au Rakhine, avec une forte insécurité alimentaire et un accès limité aux soins et à l'aide."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La guerre reste très fragmentée : la junte conserve les principaux centres administratifs et urbains, tandis que de nombreuses zones rurales et frontalières sont contrôlées ou disputées par les forces de résistance et les armées ethniques."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les élections organisées par le pouvoir militaire fin 2025-début 2026 ont été largement contestées et n'ont pas mis fin au conflit."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
