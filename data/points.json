@@ -42,5 +42,12 @@
     "lat": 21.5330,
     "lng":39.1597,
     "file": "points/alliance_moyen_orient.json"
+  },
+  {
+    "name": "Union militaire MO",
+    "lat": 21.5330,
+    "lng":39.1597,
+    "file": "points/myanmar.json"
   }
+
 ]
