@@ -22,5 +22,11 @@
   "name": "Yémen",
   "aliases": ["Yemen", "Yémen", "Republic of Yemen"],
   "file": "countries/yem.json"
+},
+{
+  "iso_a3": "DJI",
+  "name": "Djibouti",
+  "aliases": ["Djibouti", "Republic of Djibouti", "République de Djibouti"],
+  "file": "countries/dji.json"
 }
 ]

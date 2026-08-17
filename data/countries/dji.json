@@ -1,0 +1,543 @@
+{
+  "id": "dji",
+  "name": "Djibouti",
+  "subtitle": "Géographie, histoire, économie, bases militaires étrangères et enjeux stratégiques autour de Bab-el-Mandeb",
+  "sections": [
+    {
+      "title": "Données générales",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Djibouti compte environ 1 million d'habitants."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les langues officielles sont l'arabe et le français ; le somali et l'afar sont les principales langues nationales et autochtones."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La population est très majoritairement musulmane, à environ 96 %."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En 2019, Djibouti se classait au 166e rang sur 189 pays selon l'indice de développement humain (IDH)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Géographie",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Djibouti est un pays très aride et très chaud, avec de faibles précipitations et de fortes contraintes liées à l'accès à l'eau."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La capitale, Djibouti, est située sur la côte et constitue le principal centre urbain et économique du pays."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'intérieur du pays est largement désertique, notamment autour du Grand Bara."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La gestion de l'eau constitue un enjeu majeur : les ressources sont limitées, certaines nappes se dégradent et une partie de l'eau disponible est insuffisamment exploitée ou traitée."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Position stratégique",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Djibouti borde le golfe d'Aden, le détroit de Bab-el-Mandeb et l'entrée de la mer Rouge."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le pays est frontalier de la Somalie, de l'Éthiopie et de l'Érythrée."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Sa position à proximité de Bab-el-Mandeb lui donne une importance stratégique majeure pour les échanges maritimes entre la mer Rouge, l'océan Indien et les grands marchés de la péninsule Arabique."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Économie",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Djibouti dispose de peu de ressources économiques exploitées et l'agriculture comme l'industrie restent limitées."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'économie dépend fortement des importations, notamment en provenance d'Éthiopie, de Somalie, du Yémen et de France."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le chômage est très élevé, les estimations avancées dans les notes atteignant environ 70 %."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Les salines de Djibouti et du lac Assal constituent une ressource économique importante."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le pays possède également diverses ressources naturelles potentielles, notamment du fer, du zinc, de l'or, du cuivre et de l'aluminium, dont l'exploitation reste limitée ou inégale."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Port de Djibouti",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le secteur tertiaire domine largement l'économie et représenterait environ 82 % du PIB."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Le port de Djibouti et son extension de Doraleh constituent le cœur de l'économie, notamment grâce aux activités de transit et de logistique."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La position du port permet notamment de servir de débouché maritime à l'Éthiopie, pays enclavé dont une grande partie du commerce extérieur transite par Djibouti."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khat et enjeux de santé",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le khat est une plante aux propriétés stimulantes très largement consommée à Djibouti."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Sa consommation constitue une activité économique importante et génère des recettes pour l'État."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Une grande partie du khat consommé est importée d'Éthiopie, ce qui représente une sortie importante de devises."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Histoire politique et conflit interne",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Après l'indépendance, le pouvoir est dominé par le président Hassan Gouled Aptidon et par l'élite issa, tandis qu'une partie importante de la population afar est marginalisée politiquement."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le Front pour la restauration de l'unité et de la démocratie (FRUD) est formé dans ce contexte et mène une rébellion contre le pouvoir central."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le FRUD parvient à conquérir une partie du territoire avant l'interposition des troupes françaises en 1992 et l'ouverture d'une médiation."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ahmed Dini, figure de l'indépendance de Djibouti, soutient le FRUD."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Une offensive gouvernementale menée en 1993 permet la reconquête de la quasi-totalité des territoires contrôlés par la rébellion."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Conflit avec l'Érythrée",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "2008 : Djibouti entre en conflit armé avec l'Érythrée autour de différends territoriaux liés notamment à la zone du cap Ras Doumeira."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Printemps arabe et évolutions politiques",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "2011 : les mobilisations inspirées par le printemps arabe touchent également Djibouti dans un contexte de contestation politique."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La période est également marquée par une modification constitutionnelle supprimant la limitation du nombre de mandats présidentiels."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "L'islam est consacré comme religion de l'État."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bases militaires étrangères",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Djibouti accueille plusieurs bases militaires étrangères en raison de sa position stratégique à proximité de Bab-el-Mandeb et de la mer Rouge."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "France : présence militaire héritée de la période coloniale et maintenue après l'indépendance ; Djibouti accueille la principale base française à l'étranger."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "États-Unis : installation d'une base à partir de 2002 afin de renforcer la présence américaine dans la Corne de l'Afrique et de sécuriser les voies maritimes régionales."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Japon : installation d'une base en 2011, notamment dans le cadre des opérations de lutte contre la piraterie."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Italie : installation d'une base militaire en 2012."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Chine : ouverture d'une base militaire en 2017, première base militaire chinoise officiellement établie à l'étranger."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Djibouti a également rejeté des demandes d'installation militaire formulées par la Russie et l'Iran."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Présence française",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La France et Djibouti sont liés par un accord de défense qui encadre la présence militaire française dans le pays."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La présence française constitue une capacité importante de déploiement dans la Corne de l'Afrique et autour de la mer Rouge."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "En 2015, la présence française comptait environ 1 950 militaires."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La base aérienne 188 de Djibouti constitue un élément majeur du dispositif, avec notamment l'escadron de chasse 3/11 Corse et le 5e Régiment interarmes d'outre-mer (RIAOM)."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Djibouti constitue également un point de départ stratégique pour les opérations militaires et les déploiements français dans la région, notamment autour du détroit de Bab-el-Mandeb."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Présence américaine",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Les États-Unis cherchent à disposer d'une base régionale après les attentats contre les ambassades américaines de Nairobi et Dar es-Salaam en 1998 et l'attaque contre l'USS Cole à Aden en 2000."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La présence américaine vise notamment à lutter contre le terrorisme dans la Corne de l'Afrique et la péninsule Arabique et à sécuriser les voies maritimes stratégiques."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "Djibouti sert notamment de point d'appui aux opérations américaines menées dans la région, y compris aux opérations de drones contre des groupes armés dans la péninsule Arabique."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Présence chinoise",
+          "blocks": [
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La Chine installe une base militaire à Djibouti en 2017 pour renforcer ses capacités logistiques et navales et sécuriser ses intérêts dans l'océan Indien et autour de la mer Rouge."
+                }
+              ]
+            },
+            {
+              "type": "bullet",
+              "parts": [
+                {
+                  "type": "text",
+                  "value": "La présence chinoise est également liée à la sécurisation des routes commerciales et logistiques associées à la nouvelle route de la soie, notamment pour les flux énergétiques et le transport du pétrole."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rôle régional et importance stratégique",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La localisation de Djibouti à proximité immédiate de Bab-el-Mandeb en fait un point stratégique majeur pour le contrôle et la sécurisation des routes maritimes entre l'Europe, le Moyen-Orient, l'Afrique et l'Asie."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La concentration de bases militaires étrangères fait de Djibouti l'un des principaux pôles militaires internationaux de la Corne de l'Afrique."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La présence simultanée de puissances comme la France, les États-Unis, la Chine, le Japon et l'Italie confère au pays une importance diplomatique et militaire disproportionnée par rapport à sa taille et à sa population."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
