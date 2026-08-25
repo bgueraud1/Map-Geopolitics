@@ -1,0 +1,112 @@
+{
+  "id": "samp-t-ng",
+  "name": "SAMP/T NG",
+  "subtitle": "Offre française à l'Allemagne et évolution de la défense sol-air européenne",
+  "sections": [
+    {
+      "title": "Offre française à l'Allemagne",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Offre française à l'Allemagne. Pas de nouvelle architecture commune mais proposition brute d'intégration dans la production du système dans contexte de durcissement des besoins européens."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Tranche avec la tradition des programmes communs (SAMP/T, frégates Horizon, FREMM avec l'Italie par exemple). Parfois crée une réelle base industrielle (MBDA, KNDS, Airbus)."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "À l'inverse, France propose de donner à l'Allemagne un rôle de production seule, comme elle le recherche dans les PAC-2, EuroTrophy, EuroSpike. Mais cette fois, offre européenne, sans abandon de la co-solution américaine du Patriot."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "SAMP/T NG spécialisé pour la courte et moyenne portée, pourrait être complémentaire des systèmes IRIS allemands selon leur évolution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Double pression sur Patriot",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ukraine terrain montre bien la massification des attaques de drones et missiles."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Disponibilité incertaine des intercepteurs américains."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "39 jours en Iran : 1000 à 1500 intercepteurs + 600 par les alliés du Golfe."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En réalité, livraison de 20 unités par mois."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mise en danger des approvisionnements européens face à laquelle l'indigénisation de la production ASTER 30 B1NT devient crédible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Obstacles politiques",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Attention obstacle politique car All préfère toujours USA et France veut cohérence interne."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

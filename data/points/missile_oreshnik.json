@@ -1,0 +1,94 @@
+{
+  "id": "missile-oreshnik",
+  "name": "Missile Oreshnik",
+  "subtitle": "Production, composants et montée en puissance de la chaîne missilière russe",
+  "sections": [
+    {
+      "title": "Production et évolution",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Désormais produit également en Biélorussie."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "2023 : Russie frappe plus régulièrement en alliant Geran/Shahed aux missiles Iskander-M et Kh-101. Mais seulement nombre limité de missiles avec beaucoup de composants, US, Europe, Japon, Taïwan."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Oreshnik : missile intermédiaire, reprend des éléments soviétiques dont les étages à propergol solide."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En 2026, les débris montrent des composants russes ou biélorusses produits entre 2023 et 2025."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Montée en puissance de la production",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Alimentation d'une chaîne de production active pendant la guerre. Volume en hausse, HUR 2026 : 200 missiles balistiques et de croisière par mois."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Au 5 août : le JUR évalue à 600 missiles Oniks, 450 Kalibr, 120 Zircon et 100 Kh-101 les stocks. Également Kinzhal aéroportés et missiles nord-coréens."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Électronique et systèmes avancés",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Arrivée du système Arena-M sur char traduit approvisionnement électronique plus régulier avec outils avancés de traitement du signal."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Idem pour Rostec et chasseurs Su-34, 35 et 57."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

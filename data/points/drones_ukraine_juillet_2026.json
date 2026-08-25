@@ -1,0 +1,103 @@
+{
+  "id": "drones-ukraine-juillet-2026",
+  "name": "Drones Ukraine",
+  "subtitle": "Extension de la portée et exposition de la profondeur stratégique russe",
+  "sections": [
+    {
+      "title": "Montée en portée",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Zelenski annonce en juillet 2026 chercher les 5 à 10 000 km de portée pour 2027."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Aujourd'hui, 3 500, permet de frapper jusqu'aux abords de l'Oural."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "FirePoint, avec FP-1 aurait atteint Omsk soit 3000+ km pour frapper raffinerie."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Également utilisé pour frapper des points du réseau Wildberries. Atteintes en Crimée, Leningrad et Tver."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Profondeur stratégique russe",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Russes interceptent mais sans neutraliser menaces sur nœuds logistiques pourtant éloignés du front."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "9500 km séparent UA de Vladivostok. Donc met à portée toutes les installations industrielles, énergétiques de Sibérie et les bases militaires d'Extrême-Orient sans reposer sur missiles occidentaux à l'emploi encadré."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Permet d'exposer la profondeur stratégique russe. Aujourd'hui, systèmes de défense concentrés autour de la Russie occidentale, de Moscou et du front."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Profondeur stratégique n'est alors plus qu'une zone de repli sécurisante mais une zone vulnérable à protéger."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coopération industrielle",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Toujours combiné à coopération industrielle, notamment avec réflexion sur un Drone Deal avec USA."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "russie-fin-guerre-mai-2026",
+  "name": "Russie : récit d'une fin de guerre",
+  "subtitle": "Éléments de langage, compromis envisagé et coûts de la poursuite du conflit",
+  "sections": [
+    {
+      "title": "Préparation d'une fin de guerre",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mai 2026 : succession d'éléments de langage de l'administration russe pour rendre une fin de la guerre acceptable."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "9 mai : Poutine — la guerre « tend à se terminer »."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Proposition de Gerhard Schröder comme médiateur."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Dossier Center présente compromis qui serait envisagé : reconnaissance de l'annexion de Donetsk, Louhansk + Kherson et Zaporijia le long de la ligne de front actuelle VS retrait russe de Soumy et Kharkiv."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Envisage levée progressive de sanctions européennes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Récit de victoire",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Récit de victoire : gains territoriaux + ouverture d'un corridor terrestre vers la Crimée + intégration des russophones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coût de la poursuite de la guerre",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Risque de la poursuite de la guerre : mobilisation générale, conversion de l'économie en régime de guerre, épuisement des ressources, hausse d'impôts, licenciements. Aléas sécuritaires et attaques de drones."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Attrition russe de 35 000 soldats par mois."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Public Opinion Forum, décote 76 → 71 % de confiance à Poutine entre 22 et 29 mars avec restrictions imposées à Telegram."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Baisse PIB 1,8 % sur janvier-février."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Orechkine reconnaît que situation très compliquée."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "accord-france-ukraine-aster-samp-t-ng",
+  "name": "Accord France-Ukraine : ASTER-30 B1NT et SAMP/T NG",
+  "subtitle": "Production de missiles et livraison de systèmes sol-air",
+  "sections": [
+    {
+      "title": "Accord du 14 juillet",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Accord publié le 14 juillet en France et Ukraine : licence pour production de missiles Aster-30 B1NT et commande de 4 SAMP/T NG."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "2 batteries prêtées en attendant."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Permet de valider la capacité du SAMP/T à engager des MRBM, menaces hypersoniques ou manœuvrantes type Zircon."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Lutte avec le Patriot PAC-3 MSE."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Production et capteurs",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En 2026, MBDA doit doubler la production d'ASTER. Tirs ukrainiens devraient être financés par dispositifs d'aide européens."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ukraine commande également des capteurs dont radars Ground Fire 300 de Thales."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

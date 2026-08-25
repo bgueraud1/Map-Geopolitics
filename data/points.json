@@ -54,6 +54,62 @@
   "lat": -13.8333,
   "lng": -171.7667,
   "file": "points/pacifique_insulaire_grandes_strategies_nationales.json"
+},
+{
+  "name": "Missile Oreshnik",
+  "lat": 54.6872,
+  "lng": 25.2797,
+  "file": "points/missile_oreshnik.json"
+},
+{
+  "name": "Geran 4 et 5",
+  "lat": 55.7558,
+  "lng": 37.6173,
+  "file": "points/geran_4_5.json"
+},
+{
+  "name": "Golden Dome",
+  "lat": 38.9072,
+  "lng": -77.0369,
+  "file": "points/golden_dome.json"
+},
+
+{
+  "name": "Fin de la guerre en Ukraine",
+  "lat": 55.7558,
+  "lng": 37.6173,
+  "file": "points/russie_fin_guerre_mai_2026.json"
+},
+
+{
+  "name": "SAMP/T NG",
+  "lat": 48.8566,
+  "lng": 2.3522,
+  "file": "points/samp_t_ng.json"
+},
+
+{
+  "name": "ASTER-30 B1NT / SAMP/T NG",
+  "lat": 50.4501,
+  "lng": 30.5234,
+  "file": "points/accord_france_ukraine_aster_samp_t_ng.json"
+},
+
+{
+  "name": "Drones Ukraine",
+  "lat": 50.4501,
+  "lng": 30.5234,
+  "file": "points/drones_ukraine_juillet_2026.json"
+},
+{
+  "name": "Operation Logistic Lockdown",
+  "lat": 59.9891,
+  "lng": 29.7756,
+  "file": "points/operation_logistic_lockdown.json"
 }
+
+
+
+
 
 ]

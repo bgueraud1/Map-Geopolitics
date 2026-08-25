@@ -1,0 +1,85 @@
+{
+  "id": "golden-dome",
+  "name": "Golden Dome",
+  "subtitle": "Financement, calendrier et risques politiques du programme",
+  "sections": [
+    {
+      "title": "Financement et calendrier",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Interruption dès 2027 faute de crédit ?"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Premières capacités opérationnelles censées être livrées en 2028. Enveloppe de 185 milliards pour l'instant."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Certains éléments sous contrat malgré le stade d'étude préparatoire où est le programme en général."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Réticence parlementaire",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Réticence parlementaire : Congrès refuse 350 Mds de crédits supplémentaires pour le Pentagone via réconciliation."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Risque grand car contrats déjà passés : si Congrès rejette, le Pentagone devra payer a minima les clauses de retrait."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Dans contexte rendu tendu par le développement des moyens conventionnels, spatiaux et nucléaires face à Chine, Iran, DPRK et Russie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Explosion des coûts",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "D'ailleurs, programme initialement évalué à 542 Mds en 2025 est passé à 1200 Mds en 2026."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

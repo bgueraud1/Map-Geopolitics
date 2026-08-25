@@ -1,0 +1,67 @@
+{
+  "id": "operation-logistic-lockdown",
+  "name": "Operation Logistic Lockdown",
+  "subtitle": "Frappes ukrainiennes en profondeur et pression sur la Russie",
+  "sections": [
+    {
+      "title": "Poids politique",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Poids politique par le lien fait par Zelensky entre l'opération et le refus de cessez-le-feu par Moscou."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cibles",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Symboliquement, attaque à Kronstadt sur une corvette en cale sèche et attaque sur sites militaires et énergétiques à Leningrad."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Référence historique",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Un lien à tisser avec les opérations Linebacker au Vietnam ?"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Frappes dans profondeurs américaines sur le Nord-Vietnam pour chercher issue diplomatique."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ici, sabotages ukrainiens visent un cessez-le-feu indéfini et des pourparlers en pays neutre alors que Russes conditionnent cela à un retrait ukrainien du Donbass."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "geran-4-5",
+  "name": "Geran 4 et 5",
+  "subtitle": "Évolution des drones Geran et adaptation de la saturation des défenses",
+  "sections": [
+    {
+      "title": "Geran-2",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Geran-2 devenu relativement inefficace : 180 à 200 km/h, taux d'interception autour de 90 à 95 % selon l'Ukraine. Malgré volonté avérée de saturer la défense (200 par jour) et d'utiliser des réseaux maillés décentralisés en essaim pour rendre les drones résilients au brouillage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Geran 4 et 5",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Geran 4 et 5 ont un turboréacteur qui permet de dépasser 500 km/h, au-delà des intercepteurs classiques, obligeant à utiliser l'Aster, le NASAMS ou l'IRIS-T LM bien plus coûteux."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Aujourd'hui, Geran 2 utilisés pour saturer l'avant, consommer les ressources et fatiguer les radars. Ensuite, les Geran 4 et 5 frappent les objectifs de valeur. Également dotés de capteurs optiques et infrarouges pour réduire les interceptions. Autonomie développée via IA."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Option crédible face au coût plus élevé des Kh-101 de croisière."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Limites",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pourtant avantage paraît peu durable : interception à bas coût émergent comme les roquettes guidées laser APKWS des USA. Autres projets équivalents en Europe."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
