@@ -48,6 +48,12 @@
     "lat": 21.5330,
     "lng":39.1597,
     "file": "points/myanmar.json"
-  }
+  },
+  {
+  "name": "Pacifique insulaire",
+  "lat": -13.8333,
+  "lng": -171.7667,
+  "file": "points/pacifique_insulaire_grandes_strategies_nationales.json"
+}
 
 ]
