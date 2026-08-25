@@ -1,0 +1,655 @@
+{
+  "id": "fermeture-ormuz-systeme-energetique-mondial",
+  "name": "Fermeture d'Ormuz : que risque le système énergétique mondial ?",
+  "subtitle": "Flux pétroliers, stocks, réactions des marchés et conséquences géopolitiques",
+  "sections": [
+    {
+      "title": "Avant la fermeture",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Hostilités reprennent depuis le 7 juillet par attaques iraniennes de tankers."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Commerce hydrocarbure = principal levier iranien et principale limite des opérations US."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Aujourd'hui, montée en puissance des Houthis ? --> fermerait principale soupape d'exportation à Bab-el-Mandeb."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En février, consommateur en situation de force ; course à la production d'hydrocarbure dans contexte de marché à l'accroissement en constant ralentissement depuis quelque temps (arrivée de l'offshore, volonté EAU de produire plus). En gros, consommateur gagnant ainsi que économies dans cercle vertueux car coûts pétrole dirigent l'inflation."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "2019 : Pacte Vert pour transition. Mais taux d'intérêts proches de 0, investissements très rentables. Baisse prix du pétrole permet paradoxalement la baisse des taux directeurs, donc de la transition."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ormuz : GNL. Très favorable également car en baisse. Possibilité de transition charbon --> gaz pour les industries du monde entier."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Situation : doublement capacité d'exportation de GNL des US. Pour Europe, mais aussi pour décarboner Asie du Sud-Est. Très grosse progression."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Gaz est souvent un sous-produit du pétrole aux USA. Pourtant, pétrole pas en voie d'augmentation aux US avant conflit."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Côté Moyen-Orient : achat d'armement aux US, mais méfiance (cf. Saoudiens pas aidés par US vs Houthis) --> produire beaucoup plus afin de réduire les parts de marché américaines et conforter OPEP + faire baisser importance Russie qui est en difficulté (cf. frappes sur raffineries) mais à projeter son marché européen sur l'Inde et la Chine."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En somme, situation favorable à l'économie mondiale, à la transition énergétique et à l'effort d'armement européen + UA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La Chine et les stocks énergétiques",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Autre acteur : la Chine -- dépendance : 1/2 pétrole par Ormuz. Mais il existe des réserves énergétiques (nominalement, chaque pays a 3 mois, mais Chine, réserve immense)."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En réalité, Chine a grosse influence sur prix, car possède large industrie, fait varier ses importations. Premier importateur mondial, pour eux + pour réexporter produits raffinés."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mais boîte noire : décision d'investir dans stocks commerciaux, cuves massives."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Profitant des prix assez bas, a rempli ses stocks commerciaux, et sans doute militaires. Premier acheteur du pétrole iranien (via Malaisie), provient également du Venezuela."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mais choses curieuses : avait sans doute atteint son plafond de consommation de diesel car électrification massive de lignes ferroviaires, de véhicules individuels, du fret routier (camions au GNL et électriques)… Mais incertitude sur volume stocks et réexportations."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Venezuela comme alerte, prise de précaution avant Iran."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Crise intervient donc à situation idéale : stocks chinois très élevés, stocks flottants russes aussi (cf. contango, même avant guerre), notamment sous effet sanctions sur Russie et Iran (2 gros producteurs, qui écoulent pétrole à plus bas prix)."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pour Russie, principal objectif est de rentrer dans coûts logistiques car tankers ont trajets très longs : Inde plus éloignée que Rotterdam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Février 2026 : fermeture du détroit",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Février 2026 : Fermeture du détroit. Augmentation jusqu'à 120 $/baril."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pas fermeture concrète du détroit par Iran. Simple déclaration suffit pour que assureurs et Lloyd's déclarent que navire en zone de guerre --> rupture contrat. (cf. risque de mines, pas nécessaire d'en mettre vraiment)."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Acteurs du marché : emballement et spéculation à la hausse car pénurie visible. Prévision du manque --> faire payer plus consommateur."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Attention, inconnue : point auquel acheteur n'achète plus car trop coûteux. Nouvel équilibre offre/demande. Maintien dans zones à peu près absorbables."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Attention : niveau de prix pour produits raffinés a pu connaître pics très élevés. Plus que brut, car annonces catastrophistes jamais réalisées."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ajustement rapide côté demande avec un arrêt fret routier dans plusieurs pays (surtout Afrique et Asie du Sud-Est)."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Et baisse consommation chinoise."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Chine comprend qu'elle peut en profiter : Asie du Sud-Est paralysée dans son industrie, son fret… propose de fournir du carburant."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pétrole iranien passe encore, quelques irakiens, émiratis qui passent avec transpondeurs éteints."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Et Saoudiens possèdent une infrastructure Abqaiq-Yanbu inutilisée qu'ils relancent. Donc encore un peu de flux et rééquilibrage du marché à 100-110 sans effondrement des économies."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mobilisation des réserves de sécurité (US, Japon), volume annoncé de 400 millions de barils (4 jours). A pu aider."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Effets des frappes et réouverture",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Qu'est-ce que les frappes ont cassé ?"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pas trop en Iran car espoir US de les récupérer comme au Venezuela. Mais Iraniens ont ciblé installations dans le Golfe."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Peu dans premier acte. Accord tacite entre deux camps. Mais frappes de signalement, trains de GNL, usines de GPL, Fujairah… Impact surtout au Qatar sinon…"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Nouvelle phase : US étouffent Iran en empêchant exportations. Et Iran veut faire abandonner les US en bloquant Ormuz."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Comment Iran a survécu à la fin de leurs exportations et la perte de leur rente pétrolière ?"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Au début, infrastructure intacte et prix doublé pendant quelques semaines."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ensuite, blocus US."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mémorandum juin et réouverture : embouteillage, file d'attente, 300-400 navires environ."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Prix baril baisse, mais pas celui à la pompe car frappes ukrainiennes en Russie, dans sa traditionnelle période tendue de l'été."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Droit de péage et liberté des mers",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Vu de l'Iran, droit de péage via Iran route et interdiction de Oman route. Ciblage très précis des navires, à un moment précis, contre des pays précis. Renseignement et capacités de ciblage élevés."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Acteurs prêts à payer ? Sorte de consensus que depuis 1941 et Charte de l'Atlantique, liberté des mers…"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Iraniens pas stupides, droits de péage pas exorbitants (à condition de pas violer sanctions américaines) et acteurs probablement prêts à payer. Mais inacceptable pour les États."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Risque de copie du système par Houthis, Turcs, Indonésiens… Combien demandera l'Iran dans 10 ans ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Risque actuel",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Aujourd'hui, quel risque ?"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Situation pire qu'en février quand stocks très larges. Aujourd'hui, amortisseurs réduits."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Si Bab-el-Mandeb se ferme, exportations saoudiennes fortement restreintes. Possible ciblage de Yanbu par les Houthis."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Iran en train d'être acculé financièrement, sans revenu. Hors système fonctionne pas si pas de salaires etc... malgré verrou sécuritaire."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pari US : pousser vers effondrement économie. Iraniens activent Houthis pour augmenter pression + frappes de signalement sur navires. Attente des mid-terms."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Scenario pour marchés = pénuries produits (carburants aviation et diesels dont stocks pas suffisants pour empêcher montée des prix) et montée des prix du baril. En somme, destruction de la demande."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Conséquences énergétiques et industrielles",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Bons points : efforts pour développer biocarburants, alternatives, diminuer. Un peu cynique."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pas de voyant rouge pour engrais, mais peut survenir à moyen terme."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Construction massive de pipelines au Moyen-Orient. Autant d'argent qui n'ira pas ailleurs même si pas priorité."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Accélèreront diversification de leurs économies."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Accélération de leurs partenariats avec alliés fiables, comme Europe qui a joué son rôle. Pas reposer seulement sur US, Israël."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Électrification devrait augmenter. Grand chantier de développement de batteries, pour stocker énergie, notamment solaire."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Permet de passer la « pointe du soir »."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Grand problème : charbon devrait augmenter car GNL va diminuer."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Europe, pays émergents achètent paix sociale en diminuant les taxes sur les hydrocarbures."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Europe et résilience",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En Europe : on a contraintes supplémentaires. Déficit commercial avec Chine (400 milliards -- seuil critique) + pans industrie qui produisent moins, risque de cascade + États aux finances publiques contraintes, difficultés à dépenser pour transitions énergétique, sécurité…"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "On pousse électrification, maîtrise des chaînes de valeurs : transformateurs, câbles, métaux (produire ou dérisquer au moins)."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pour l'instant, trop difficile de dégager"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Délégation interministérielle aux métaux, FREMI."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Rapport de 1 à 8 par rapport aux US, sentiment de dépassement."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Il faut un énorme effort industriel et un consensus sur la nécessité de sacrifice (retraites, santé, éducation). Probablement retraites, TVA, transition énergétique stratégique plus efficace en visant résilience et sécurité."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comment prévoir ?",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Chine vont-ils utiliser leurs stocks ? Pour les pays voisins aussi ou non ?"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "US vont-ils utiliser leur réserve stratégique ?"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Subventions sur tous les secteurs ? Ou non ?"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pas sous-estimer l'asphyxie iranienne sur le plan économique."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
