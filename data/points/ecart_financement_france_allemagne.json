@@ -1,0 +1,99 @@
+{
+  "id": "ecart-financement-forces-armees-france-allemagne",
+  "name": "Écart financement des forces armées allemandes et française",
+  "subtitle": "Des modèles militaires différents malgré le réarmement allemand",
+  "sections": [
+    {
+      "title": "Évolution budgétaire",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Équilibre budget rompu par G UA. En 2027, Fr seulement 45% de l'All."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Modèles militaires différents",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Modèles militaires différents : Fr entretient une dissuasion nucléaire océanique et aéroportée, des forces expéditionnaires, une aéronavale embarquée et des moyens opérationnels pour opérer loin du territoire national."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "L'All concentre son effort dans la remontée conventionnelle en Europe : avions de patrouille maritime, hélicoptères de transport, chars, obusiers…"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En France, la dissuasion coûte moins de 15G€ par an."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Choix français",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "France fait choix différents : compétences industrielles et militaires dans les avions de combat, la défense sol-air, les sous-marins, les bâtiments de combat, l'aéronavale et les forces terrestres rapidement déployables. Loin du format polonais ou allemand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Industries et souveraineté",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Entreprises allemandes ont déjà de gros contrats européens dans l'armement terrestres. Berlin reste ouvert aux matériels US et israéliens. Réduit l'emprise française sur le continent déjà peu prégnante."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Industrie française soutient la souveraineté quasi-totale des armées."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Coopérations demeurent possible (e.g. SAMP/T ouverture possible à All.)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "collaboration-dassault-saab",
+  "name": "Collaboration Dassault Saab",
+  "subtitle": "Coopération potentielle autour de futurs avions de combat",
+  "sections": [
+    {
+      "title": "Rapprochement franco-suédois",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "28 août, France se déclare prête à travailler avec la Suède, déjà courtisée par Berlin et Londres."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Proximité des besoins : petits avions."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "France propose capacité de motorisation que la Suède n'a pas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Deux programmes différents",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Projet de participation de la France au programme de Saab pour la succession du Grippen, chasseur léger. Monomoteur de 20 tonnes."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Dassault piloterait de son côté un avion plus lourd pour besoin français. Bi-moteur 30 tonnes, peut-être avec l'Inde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Composants communs",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La propulsion, certains capteurs, les communications, les drones collaboratifs pourraient être réalisés en commun, tout en laissant Saab et Dassault contrôler le cœur de l'appareil."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ajd, Gripen propulsé par le F414 de General Electric. Alors que Safran produit le M88 du Rafale."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coopération existante",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Collaboration Dassault-Saab préexiste dans le nEUROn, démonstrateur européen de drone de combat."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Cadre bilatéral plus large : France a commandé 2 GlobalEye + 2 en option. Suède doit formaliser l'acquisition de 4 FDI."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Complémentarité des programmes",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Ecart de rayonnement entre les deux programmes permettrait de répondre à des besoins différents, pas même marché."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "France peut acheter monomoteurs, Suède peut acheter bimoteur, en petite quantité."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Inde pas nécessairement impactée dans sa participation et vice-versa."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

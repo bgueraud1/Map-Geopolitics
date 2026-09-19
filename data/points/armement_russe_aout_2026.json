@@ -1,0 +1,216 @@
+{
+  "id": "armement-russe-aout-2026",
+  "name": "4 points d'août sur l'armement russe",
+  "subtitle": "Arena M, Sarmat, drones et Zircon",
+  "sections": [
+    {
+      "title": "Arena M",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Appréciations contradictoire sur performances. En somme, efficace tant que stock de munitions. Ensuite vulnérable aux FPV."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Peut détruire environ 7 drones FPV."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Chars peu utilisables pour percée rapide mais en appui-feu de l'infanterie."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Effort russe pour mener des progression de blindés en cohérence avec systèmes d'interception, perturbation de la détection ukrainiennes, frappes sur équipes de pilotage, guerre électronique… Concentration sur portion du front pendant un temps court permettant aux véhicules de passer (sorte de dôme de protection temporaire)."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mais coordination n'est pas la fibre naturelle de l'armée russe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Missile Sarmat — 18/08/2026",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "déclaré opérationnel en 2023, encore en essai à l'été 2026."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Appartient aux 6 nouvelles armes stratégiques russes de 2018."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Incohérences dans commandes et achèvement des travaux (cf enquête contre Verteletsky signe des défaillances de la plannification russe)"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Kinzhal, Oreshnik, Zirkon, Burevestnik, Poséidon sont pas non plus pleinement novateurs, reposent essentiellement sur des technologies préexistantes améliorées."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Su-57 même sort : moins de 30 appareils seraient disponibles alors que le prototype a volé en 2010."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Idem pour forces terrestres : production privilégie le T90M et le BMP3M dérivés de matériels antérieurs, plutôt que le T14 ou le T15 Armata, idem pour Kurganets25 et Boomerang."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Exception pour les sous-marins nucléaires : Le K-572 Perm est mis à l'eau en mars 2025."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Lente érosion des acquis soviétique malgré la permanence d'une capacité industrielle notable. Mais les technologies militaires de pointes ne semblent plus être à la portée russe en dehors du nucléaire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Drones — 13/08/2026",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Accumulation de 11.000 drones par la Russie (Geran, Harpy, Gerbera)."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Probablement une frappe contre les réseaux ukrainiens avant l'hiver. Ttransformateurs, voies ferrés, routes, télécommunications..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Missile Zircon — 31/08/2026",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Classé par le renseignement ukrainien comme un simple missile balistique (non-hypersonique) mais aux caractéristiques particulières qui le rendent difficilement interceptable."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Large partie de la trajectoire entre 45 et 65 km, tranche à laquelle opèrent peu d'intercepteurs : seules l'Arrow 3 et le THAAD (missile SM-3) le sont, en attendant les programmes européen HYDIS et HYDEF."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En phase terminale, les Patriot et SAMP/T peuvent intervenir mais Mach 5 de vitesse, donc plusieurs intercepteurs et coût élevé d'interception."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "A l'origine, Zircon présenté comme un missile de croisière anti-navire. Mais trajectoire semibalistique est plus facile à prévoir et est visible à longue distance même si le changements de direction compliquent l'interception."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Stocks et tirs sur Ukraine en augmentation."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mach 9 revendiqué mais en réalité, Mach 6.8 au maximum. Pas hypersonique, a priori plus une priorité pour Moscou."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

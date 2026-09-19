@@ -1,0 +1,76 @@
+{
+  "id": "usa-presence-militaire-europe",
+  "name": "Les États-Unis réexaminent leur présence militaire en Europe",
+  "subtitle": "Quatre niveaux de présence américaine et montée en capacités européennes",
+  "sections": [
+    {
+      "title": "Quatre niveaux de présence",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Encore 80.000 soldats US en Europe."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mais volonté d'établir 4 niveaux de présence américaine en fonction des nécessités locales."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Conserver structures indispensable à montée en puissance rapide mais en modulant sur 4 niveaux (vs 3 dans les exercices Reforger de la GF) en accord avec multiplication des engagements potentiels (Pacifique, MO…)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Responsabilité européenne",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Repose sur responsabilité européenne de montée en capacités propres."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Double objectif sous-jacent",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "régler problèmes, notamment le droit de survol (cf Espagne Epic Fury) pour engagement US hors Europe"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "modernisation des méthodes de combat : exercices montre efficacité troupes ukrainiennes (Aurora-26)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

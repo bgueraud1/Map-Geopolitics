@@ -1,0 +1,76 @@
+{
+  "id": "grece-israel-bouclier-achille",
+  "name": "Lien Grèce Israel",
+  "subtitle": "Défense aérienne, coopération avec Israël et positionnement régional grec",
+  "sections": [
+    {
+      "title": "Programme bouclier d'Achille",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Programme bouclier d'Achille voit la Grèce se fournir auprès d'Israel pour les défenses aériennes."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Rejoint un alignement politique dans la lutte vs la Turquie, le rejet de sa réintégration au programme F-35 etc..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Position française",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Depuis la crise de 2020 en Méditerranée orientale, France toujours bien placée."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mais le rapprochement du Royaume-Uni, de l'Espagne, de l'Italie et de l'Allemagne avec Ankara fragilise le lien Grèce - Europe."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Egalement : France à pas aposer de veto à la vente du missile air-air Meteor pour les Typhoon turcs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Relation avec les États-Unis",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Idem, Grèce reste proche des USA mais ne peut laisser peser sa souveraineté et sa sécurité devant proximité Erdogan-Trump."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

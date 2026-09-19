@@ -130,7 +130,57 @@
  "file": "points/rafale_f5.json" },
 
 { "name": "Marine nord-coréenne et seconde frappe stratégique", "lat": 39.0392, "lng": 125.7625, "file": "points/coree_du_nord_marine_seconde_frappe.json" },
-{ "name": "SMP en Afrique", "lat": 12.6392, "lng": -8.0029, "file": "points/smp_afrique.json" }
+{ "name": "SMP en Afrique", "lat": 12.6392, "lng": -8.0029, "file": "points/smp_afrique.json" },
+
+{
+  "name": "Écart financement France-Allemagne",
+  "lat": 48.5728,
+  "lng": 7.8087,
+  "file": "points/ecart_financement_france_allemagne.json"
+},
+
+{
+  "name": "Puissance indienne et ses limites",
+  "lat": 28.6139,
+  "lng": 77.2090,
+  "file": "points/puissance_indienne_et_ses_limites.json"
+},
+
+{
+  "name": "Femmes dans les FAU",
+  "lat": 50.4501,
+  "lng": 30.5234,
+  "file": "points/femmes_dans_les_fau.json"
+},
+
+{
+  "name": "Collaboration Dassault-Saab",
+  "lat": 59.3293,
+  "lng": 18.0686,
+  "file": "points/collaboration_dassault_saab.json"
+},
+
+{
+  "name": "Présence militaire américaine en Europe",
+  "lat": 38.9072,
+  "lng": -77.0369,
+  "file": "points/presence_militaire_americaine_europe.json"
+},
+
+{
+  "name": "Grèce - Israël",
+  "lat": 37.9838,
+  "lng": 23.7275,
+  "file": "points/grece_israel_bouclier_achille.json"
+},
+
+{
+  "name": "Armement russe — Arena M, Sarmat, drones et Zircon",
+  "lat": 59.9343,
+  "lng": 30.3351,
+  "file": "points/armement_russe_aout_2026.json"
+}
+
 
 
 
