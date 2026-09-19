@@ -119,8 +119,18 @@
   "lat": 28.6139,
   "lng": 77.2090,
   "file": "points/inde_rafale_guerre_electronique_spectra.json"
-}
+},
 
+{ "name": "USA-Chine et l'IA", "lat": 39.9042, "lng": 116.4074, "file": "points/usa_chine_ia.json" },
+{ "name": "Force aérienne intégrée nordique", "lat": 60.1699, "lng": 24.9384, "file": "points/finlande_scandinaves_force_aerienne_integree.json" },
+
+{ "name": "Rafale F5",
+ "lat": 48.8566, 
+ "lng": 2.3522, 
+ "file": "points/rafale_f5.json" },
+
+{ "name": "Marine nord-coréenne et seconde frappe stratégique", "lat": 39.0392, "lng": 125.7625, "file": "points/coree_du_nord_marine_seconde_frappe.json" },
+{ "name": "SMP en Afrique", "lat": 12.6392, "lng": -8.0029, "file": "points/smp_afrique.json" }
 
 
 
