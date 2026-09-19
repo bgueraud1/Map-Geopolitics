@@ -106,8 +106,20 @@
   "lat": 59.9891,
   "lng": 29.7756,
   "file": "points/operation_logistic_lockdown.json"
-}
+},
+{
+  "name": "Détroit d'Ormuz",
+  "lat": 26.5667,
+  "lng": 56.2500,
+  "file": "points/fermeture_ormuz_systeme_energetique_mondial.json"
+},
 
+{
+  "name": "Rafale de guerre électronique pour l'Inde",
+  "lat": 28.6139,
+  "lng": 77.2090,
+  "file": "points/inde_rafale_guerre_electronique_spectra.json"
+}
 
 
 
