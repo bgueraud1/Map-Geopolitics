@@ -1,0 +1,167 @@
+{
+  "id": "inde-rafale-guerre-electronique-spectra",
+  "name": "Inde voudrait un Rafale de Guerre électronique",
+  "subtitle": "Suite SPECTRA et spécification pour combat himalayen",
+  "sections": [
+    {
+      "title": "Besoin et suite SPECTRA",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "15/09/2026"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Suite Spectra, spécification pour combat himalayen…"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Spectra : détecte et localise les émissions radars, infrarouges et lasers qui visent le Rafale. Brouilleurs et leurres permettent de réduire les risques."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Missions SEAD / DEAD",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Missions SEAD : désorganiser temporairement les radars et systèmes sol-air."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "DEAD : destruction."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pourrait coupler brouilleurs au missile antiradar Rudram-1 indien."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Permettre de dégrader la kill web adverse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Retour d'expérience et coopération",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "SPECTRA déjà utilisée dans attaques de 2025 vs Pakistan."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Base crédible pour coopération franco-indienne pour réduire les coûts de développement de chaque pays."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "E.g. Bharat electronics et Thales ont déjà étendu leurs travaux pour des modules micro-ondes de SPECTRA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Capacité française et défense multicouche",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "France dispose ajd des missiles de croisière SCALP etMdCN pour frappe à distance mais le Raale n'embarque pas de missile antiradar."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Problématique face à défense multicouche russe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Potentiel chez les acheteurs étrangers",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pourrait aussi trouver preneur chez acheteurs étrangers du Rafale."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Capacité rare aujourd'hui potentiellement attractive pour Grèce, Croatie, Serbie, Indonésie."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Voire même Vietnam."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
