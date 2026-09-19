@@ -1,0 +1,81 @@
+{
+  "id": "alliance-azerbaidjan-turquie",
+  "name": "Alliance Azerbaidjan-Turquie",
+  "subtitle": "Coopération militaire, interopérabilité et industrie de défense",
+  "sections": [
+    {
+      "title": "Déclaration de Choucha",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Déclaration de Chuoucha (2021) : collaboration Tr/Az, réunions sur questions d'intérêts nationaux, de sécurité régionale et internationale."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Prévoit alignement forces azerbaidjanaises sur le référentiel TSK pour interopérabilité."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Appareil industriel",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Appareil industriel : contrat entre les deux industries de défense."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Modernisation aviation de combat : Az commande 40 JF17C Block III qui recevront le système de désignation Aselpod de Aselsan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sécurité au Caucase",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Possibilité pour Ankara de fournir de la sécurité au Caucase dans cadre accord Arménie-Azerbaidjan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cadre bilatéral",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Par ailleurs, demeure strictement bilatéral, Tokayev réaffirme que veut pas transformer OTG en alliance militaire."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -179,6 +179,41 @@
   "lat": 59.9343,
   "lng": 30.3351,
   "file": "points/armement_russe_aout_2026.json"
+},
+
+{
+  "name": "Russie et menaces nucléaires",
+  "lat": 57.0000,
+  "lng": 105.0000,
+  "file": "points/russie_menaces_nucleaires.json"
+},
+
+{
+  "name": "Alliance Azerbaïdjan-Turquie",
+  "lat": 40.4093,
+  "lng": 49.8671,
+  "file": "points/alliance_azerbaidjan_turquie.json"
+},
+
+{
+  "name": "Europe commande F35 en masse",
+  "lat": 55.6761,
+  "lng": 12.5683,
+  "file": "points/europe_commande_f35_masse.json"
+},
+
+{
+  "name": "Finlande et dissuasion nucléaire française",
+  "lat": 60.1699,
+  "lng": 24.9384,
+  "file": "points/finlande_initiative_dissuasion_nucleaire.json"
+},
+
+{
+  "name": "Doraleh",
+  "lat": 11.5969,
+  "lng": 43.1474,
+  "file": "points/djibouti_doraleh.json"
 }
 
 

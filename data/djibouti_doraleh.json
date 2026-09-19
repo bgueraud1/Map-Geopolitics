@@ -1,0 +1,53 @@
+{
+  "id": "djibouti-doraleh",
+  "name": "Doraleh",
+  "subtitle": "Evolution du port de Doraleh et présence chinoise à Djibouti",
+  "sections": [
+    {
+      "title": "Evolution de la concession",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Doraleh : lancé en 2003, concession de 30 ans à DP World (EAU) en 2008, résiliation unilatérale en 2018 pour corruption. Remplacé par une société d'Etat chinoise."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "2017 : extension du port pour inclure la base navale chinoise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Importance pour l'Ethiopie",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Port permet de desservir l'Ethiopie dont 90% des marchandises transitent par Djibouti."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En 2017 inauguration de la ligne ferroviaire Addis-Abeba -- Djibouti, construite par chinois."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

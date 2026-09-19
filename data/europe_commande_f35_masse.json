@@ -1,0 +1,144 @@
+{
+  "id": "europe-commande-f35-masse",
+  "name": "Europe commande F35 en masse",
+  "subtitle": "Remplacement des F-16 et F/A-18 et dépendance croissante au F-35",
+  "sections": [
+    {
+      "title": "Commandes européennes",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "14/09/2026"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "+16 avions danois. Augmentation aussi en Belgique."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pourtant, faible disponibilité de l'appareil."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "S'inscrit dans le remplacement ddes F-16."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Participation danoise",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Danemark participe depuis 1997 comme partenaire industriel. Entreprises ont obtenu des contrats sur fabrication de certains composants."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En 2026, rapport du Bureau National d'Audit : réévalue le coût du cycle de vie sur 30 ans des F35A : + 1.91Md euros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le F35 en Europe",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Le F35 s'est imposé en Europe pour remplacer les F-16 et F/A-18."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Mais problèmes de disponibilité des appareils + entretien et maintien des caractéristiques furtives imposent une charge élevée."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En IRan, a confirmé son efficacité dans un environnement défendu. Mais également montré ses limites quand il faut multiplier les sorties."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Nécessité de le coupler avec des chasseurs de génération 4.5 pour répartir l'activité."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Homogénéisation des flottes",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Au contraire, l'Europe homogénéise ses flottes sans chasseur 4.5 et sans fournisseur européen."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "De plus, relations transatlantiques marquées par des pressions américaines."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "En somme : continuité industrielle mais accroissement de la dépendance et et rejet de la complémentarité opérationnelle."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "finlande-initiative-francaise-dissuasion-nucleaire",
+  "name": "La Finlande rejoint l'initiative française sur la dissuasion nucléaire",
+  "subtitle": "Coopération autour de la dissuasion française sans engagement de défense collective",
+  "sections": [
+    {
+      "title": "Élargissement de l'initiative",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "La Finlande rejoint l'initiative française sur la dissuasion nucléaire 14/09/2026"
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "S'ajoute à Allemagne, RU, Pologne, Pays-Bas, Belgique, Suède, Grèce et Danemarl. + Norvège depuis mai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nature de la coopération",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Pas substitution à l'OTAN, pas d'engagement de défense collective et pas de cofinancement de l'arsenal français."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Coopérations : consultations sur doctrine française et exercices conjoints (e.g. engagements de forces conventionnelles étrangères en soutien des FAS)."
+            }
+          ]
+        },
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Déploiement des FAS dans un pays participant, mais Finlande précise que pas permanent."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Contrôle de la force",
+      "blocks": [
+        {
+          "type": "bullet",
+          "parts": [
+            {
+              "type": "text",
+              "value": "Contrôle exclusif par Pdt Rép. Française."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
